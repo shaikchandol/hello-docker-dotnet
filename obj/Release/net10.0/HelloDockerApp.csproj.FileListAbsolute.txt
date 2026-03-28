@@ -1,0 +1,15 @@
+D:\VSCode\HelloDockerApp\HelloDockerApp\bin\Release\net10.0\HelloDockerApp.exe
+D:\VSCode\HelloDockerApp\HelloDockerApp\bin\Release\net10.0\HelloDockerApp.deps.json
+D:\VSCode\HelloDockerApp\HelloDockerApp\bin\Release\net10.0\HelloDockerApp.runtimeconfig.json
+D:\VSCode\HelloDockerApp\HelloDockerApp\bin\Release\net10.0\HelloDockerApp.dll
+D:\VSCode\HelloDockerApp\HelloDockerApp\bin\Release\net10.0\HelloDockerApp.pdb
+D:\VSCode\HelloDockerApp\HelloDockerApp\obj\Release\net10.0\HelloDockerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\HelloDockerApp\HelloDockerApp\obj\Release\net10.0\HelloDockerApp.AssemblyInfoInputs.cache
+D:\VSCode\HelloDockerApp\HelloDockerApp\obj\Release\net10.0\HelloDockerApp.AssemblyInfo.cs
+D:\VSCode\HelloDockerApp\HelloDockerApp\obj\Release\net10.0\HelloDockerApp.csproj.CoreCompileInputs.cache
+D:\VSCode\HelloDockerApp\HelloDockerApp\obj\Release\net10.0\HelloDockerApp.sourcelink.json
+D:\VSCode\HelloDockerApp\HelloDockerApp\obj\Release\net10.0\HelloDockerApp.dll
+D:\VSCode\HelloDockerApp\HelloDockerApp\obj\Release\net10.0\refint\HelloDockerApp.dll
+D:\VSCode\HelloDockerApp\HelloDockerApp\obj\Release\net10.0\HelloDockerApp.pdb
+D:\VSCode\HelloDockerApp\HelloDockerApp\obj\Release\net10.0\HelloDockerApp.genruntimeconfig.cache
+D:\VSCode\HelloDockerApp\HelloDockerApp\obj\Release\net10.0\ref\HelloDockerApp.dll

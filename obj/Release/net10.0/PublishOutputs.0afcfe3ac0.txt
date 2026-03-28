@@ -1,0 +1,5 @@
+D:\VSCode\HelloDockerApp\HelloDockerApp\bin\Release\net10.0\publish\HelloDockerApp.exe
+D:\VSCode\HelloDockerApp\HelloDockerApp\bin\Release\net10.0\publish\HelloDockerApp.dll
+D:\VSCode\HelloDockerApp\HelloDockerApp\bin\Release\net10.0\publish\HelloDockerApp.deps.json
+D:\VSCode\HelloDockerApp\HelloDockerApp\bin\Release\net10.0\publish\HelloDockerApp.runtimeconfig.json
+D:\VSCode\HelloDockerApp\HelloDockerApp\bin\Release\net10.0\publish\HelloDockerApp.pdb
